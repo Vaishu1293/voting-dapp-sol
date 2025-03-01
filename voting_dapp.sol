@@ -72,6 +72,7 @@ contract VotingSystem {
     }
     
    function getWinner() public view returns (string memory) {
+    require(block.timestamp > endTime, "Voting is still ongoing, results will be available after voting ends.");
         uint maxVotes = 0;
         string memory winner = "";
         for(uint i=1; i<= candidateCount; i++){

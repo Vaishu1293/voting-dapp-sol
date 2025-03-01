@@ -250,11 +250,11 @@
 	},
 	"sources": {
 		"voting_dapp.sol": {
-			"keccak256": "0x021bc7400e8451880ed11e7a656870a0666a2be8eca29a7e04c7a44e3e95d81d",
+			"keccak256": "0xeb7cf26f16e812dd41ad7d2b08a83d7c741ae1f27847f974ad54a2bb63f60b5c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7b0530a4f75d0f040c5a8e81c5d0ad1643cefa987ac691241dc5ff3302e02249",
-				"dweb:/ipfs/QmUtPZAMVyBFcjWuWnzra8xphkoFS53HxzdPmQgEmkQWLF"
+				"bzz-raw://a428985788c5280da4748ad3b6c6f6d044d1ccbfdfee9618210e6919ce9c5d3f",
+				"dweb:/ipfs/QmeZ3zvw2YMDCgCzoj4cP9gwpzpJgrotbAU9aB17g4evqb"
 			]
 		}
 	},
